@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+	<meta charset="utf-8">
+	<title>Sessions 2020</title>
+	<meta name="author" content="Oscars Club">
+	<meta name="description" content="Recopilació proposta de pel·lícules a visionar durant el 2020 que ha estat seleccionades pels coordinadors d'Oscars Club en base a les propostes dels socis de cada club">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&family=Open+Sans:wght@300;400&display=swap" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+<header>
+		<form><button name="inici" type="submit" lang="ca">Inicia sessió</button></form>
+		
+		<div class="logo2">
+			<a href="index.html"><img class="logo" src="img/oscarsclub-isologo.png" alt="Logo Oscars club">
+				<p class="oscarsclub"><span class="oscars">oscars</span><span class="club">club</span></p>
+			</a>
+		</div>
+		
+		<nav id="menu">
+			<ul>
+				<li><a href="clubs-tematics.html">CLUBS TEMÀTICS</a></li>
+				<li><a href="sessions-2020.html"><span class="menucursiva">SESSIONS 2020</span></a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<main>
+	
+		<h1 class="sessions1">Sessions 2020</h1>
+		
+		<div class="sessions2a">
+			
+			<p class="sessions2">Els coordinadors de l'Oscars Club han tingut en compte i han valorat les propostes dels socis de cada club i han seleccionat les obres a visionar durant el 2020.</p>
+		
+			<p class="sessions2">Si encara no formes part del Club, inscriu-te i gaudeix amb nosaltres del cinema.</p>
+		
+		</div>
+		
+		<div class="sessions3-4-6">
+		
+			<div class="sessions3-4">
+				<h2 class="sessions3">Sessions per Club</h2>
+		
+				<p class="sessions4"><a href="#Guardonats" title="Pel·lícules guardonades a sessions 2020">GUARDONATS</a></p>
+				<p class="sessions4"><a href="#Espai" title="Pel·lícules de ciència ficció a sessions 2020">A L'ESPAI</a></p>
+				<p class="sessions4"><a href="#Intriga" title="Pel·lícules d'intriga a sessions 2020">UNA DOSI D'INTRIGA</a></p>
+				<p class="sessions4"><a href="#Classiques" title="Pel·lícules clàssiques a sessions 2020">UNA ALTRA ÈPOCA</a></p>
+				<p class="sessions4"><a href="#Romantiques" title="Pel·lícules romàntiques a sessions 2020">POSSEM'NOS ROMÀNTICS</a></p>
+				<p class="sessions4"><a href="#Nacionals" title="Pel·lícules nacionals a sessions 2020">NACIONAL</a></p>
+			</div>
+		
+			<div class="sessions6">
+		
+				<h3 id="Guardonats" class="sessions5"> &nbsp; Guardonats</h3>
+			
+				<div class="sessions7a">
+				
+					<div class="sessions7aa1">
+					
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club1-movie1.jpg" alt="Parasite, 2019"><figcaption>Parasite, 2019</figcaption>
+							</figure>
+						</a>
+					
+					</div>
+			
+					<div class="sessions7aa1">
+					
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club1-movie2.png" alt="1917, 2019"><figcaption>1917, 2019</figcaption>
+							</figure>
+						</a>
+					
+					</div>
+			
+					<div class="sessions7aa1">
+					
+						<a href="detall-sessio.html" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club1-movie3.jpg" alt="Klaus, 2019"><figcaption>Klaus, 2019</figcaption>
+							</figure>
+						</a>
+					
+					</div>
+		
+				</div>
+				
+				<h3 id="Espai" class="sessions5"> &nbsp; A l'espai</h3>
+			
+				<div class="sessions7a">
+			
+					<div class="sessions7aa2">
+				
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club2-movie1.jpg" alt="The Martian, 2015"><figcaption>The Martian, 2015</figcaption>
+							</figure>
+						</a>
+				
+					</div>
+				
+					<div class="sessions7aa2">
+			
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club2-movie2.jpg" alt="Interstellar, 2014"><figcaption>Interstellar, 2014</figcaption>
+							</figure>
+						</a>
+			
+					</div>
+			
+					<div class="sessions7aa2">
+			
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club2-movie3.jpg" alt="Gravity, 2013"><figcaption>Gravity, 2013</figcaption>
+							</figure>
+						</a>
+
+					</div>
+			
+				</div>
+			
+				<h3 id="Intriga" class="sessions5"> &nbsp; Una dosi d'intriga</h3>
+			
+				<div class="sessions7a">
+							
+					<div class="sessions7aa3">
+				
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club3-movie1.jpg" alt="Knives out, 2019"><figcaption>Knives out, 2019</figcaption>
+							</figure>
+						</a>
+				
+					</div>
+			
+					<div class="sessions7aa3">
+				
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club3-movie2.jpg" alt="Inception, 2010"><figcaption>Inception, 2010</figcaption>
+							</figure>
+						</a>
+					
+					</div>
+			
+					<div class="sessions7aa3">
+				
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club3-movie3.jpg" alt="Keeping mum, 2005"><figcaption>Keeping mum, 2005</figcaption>
+							</figure>	
+						</a>
+				
+					</div>
+			
+				</div>
+			
+				<h3 id="Classiques" class="sessions5"> &nbsp; Una altra època</h3>
+			
+				<div class="sessions7a">
+			
+					<div class="sessions7aa4">
+				
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club4-movie1.jpg" alt="North by Northwest, 1959"><figcaption>North by Northwest, 1959</figcaption>
+							</figure>
+						</a>
+				
+					</div>
+			
+					<div class="sessions7aa4">
+				
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club4-movie2.jpg" alt="A Night at the Opera, 1935"><figcaption>A Night at the Opera, 1935</figcaption>
+							</figure>
+						</a>
+				
+					</div>
+			
+					<div class="sessions7aa4">
+				
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club4-movie3.jpg" alt="Casablanca, 1942"><figcaption>Casablanca, 1942</figcaption>
+							</figure>	
+						</a>
+				
+					</div>
+			
+				</div>
+			
+				<h3 id="Romantiques" class="sessions5"> &nbsp; Possem-nos romàntics</h3>
+			
+				<div class="sessions7a">
+				
+					<div class="sessions7aa5">
+				
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club5-movie1.jpg" alt="Love Actually, 2003"><figcaption>Love Actually, 2003</figcaption>
+							</figure>
+						</a>
+				
+					</div>
+			
+					<div class="sessions7aa5">
+				
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club5-movie2.jpg" alt="The Princess Bride, 1987"><figcaption>The Princess Bride, 1987</figcaption>
+							</figure>
+						</a>
+				
+					</div>
+			
+					<div class="sessions7aa5">
+				
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club5-movie3.jpg" alt="Sabrina, 1954"><figcaption>Sabrina, 1954</figcaption>
+							</figure>
+						</a>
+
+					</div>				
+			
+				</div>
+			
+				<h3 id="Nacionals" class="sessions5"> &nbsp; Nacional</h3>
+			
+				<div class="sessions7a">
+				
+					<div class="sessions7aa6">
+					
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club6-movie1.jpg" alt="Las brujas de Zugarramurdi, 2013"><figcaption>Las brujas de Zugarramurdi, 2013</figcaption>
+							</figure>
+						</a>
+					
+					</div>
+				
+					<div class="sessions7aa6">
+					
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club6-movie2.jpg" alt="Pa negre, 2010"><figcaption>Pa negre, 2010</figcaption>
+							</figure>
+						</a>
+					
+					</div>
+				
+					<div class="sessions7aa6">
+			
+						<a href="" title="Clica per accedir al detall de la sessió">
+							<figure>
+								<img src="img/club6-movie3.jpg" alt="Tapas, 2005"><figcaption>Tapas, 2005</figcaption>
+							</figure>
+						</a>
+					
+					</div>
+					
+				</div>
+							
+			</div>
+		
+		</div>
+		
+	</main>
+	
+	<footer>
+		<div class="peu1">
+			<ul>
+				<li><a href="">Sobre nosaltres</a>
+				<li class="peu6"><a href="">Avís legal</a>
+				<li class="peu6"><a href="">Política de privacitat</a>
+			</ul>
+		</div>
+		
+		<div class="peu2">
+			<ul>
+				<li><a href="">Facebook</a>
+				<li class="peu6"><a href="">Twitter</a>
+				<li class="peu6"><a href="">Youtube</a>
+			</ul>
+		</div>
+		
+		<div class="peu3">
+			<p class="peu3a">&copy; Antonio Asensio Pijuan</p>
+			<p><a href="https://www.flaticon.com" target="_blank" title="Icones del lloc web de Flaticon">Icones flaticon.com</a></p>
+			<p class="peu5"><a href="https://unsplash.com" target="_blank" title="Imatges del lloc web d'Unsplash">Imatges unsplash.com</a></p>
+		</div>
+		
+		<div class="peu4">
+			<p><a href=#>&xwedge;</a></p>
+		</div>
+		
+	</footer>
+	
+</body>
