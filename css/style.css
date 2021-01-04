@@ -523,7 +523,7 @@ p.oscarsclub {
 }
 
 @media screen and (min-width: 800px) {
-  	  
+  
   header {
     padding-bottom:0.5em;
   }
@@ -656,7 +656,7 @@ p.oscarsclub {
   }
   
   .sessions3-4 {
-	width:570px;
+	width:100%;
 	margin-top:0;
 	margin-right:0;
 	margin-left:0;
@@ -690,49 +690,19 @@ p.oscarsclub {
   }
   
   .sessions7a {
-	display: flex;
-	flex-flow: row wrap;
-	align-items: flex-start;
-	justify-content:space-between;
-	width:95%;
-	margin-right:0;
-	margin-left:0;
-	padding-left:0.7em;
+	display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
   }
   
   .sessions7aa1 figure figcaption, .sessions7aa2 figure figcaption, .sessions7aa3 figure figcaption, .sessions7aa4 figure figcaption, .sessions7aa5 figure figcaption, .sessions7aa6 figure figcaption {
 	font-size:0.84rem;
+	margin-top:0.1em;
   }
   
   .sessions7aa1, .sessions7aa2, .sessions7aa3, .sessions7aa4, .sessions7aa5, .sessions7aa6 {
-	flex:1;
-	width:100%;
+	width:90%;
 	margin-right:1em;
-	margin-left:0.5em;
-  }
-  
-  .sessions7aa1 {
-	height:330px;
-  }
-  
-  .sessions7aa2 {
-	height:310px;
-  }
-  
-  .sessions7aa3 {
-	height:315px;
-  }
-  
-  .sessions7aa4 {
-	height:360px;
-  }
-  
-  .sessions7aa5 {
-	height:315px;
-  }
-  
-  .sessions7aa6 {
-	height:320px;
+	margin-left:0.8em;
   }
   
   .sessions7aa1 figure, .sessions7aa2 figure, .sessions7aa3 figure, .sessions7aa4 figure, .sessions7aa5 figure, .sessions7aa6 figure {
